@@ -11,7 +11,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--What about the process of working through a design document did you find helpful when developing the code?
+- What about the process of working through a design document did you find helpful when developing the code?
 
    I found that taking time to explore different options early on was really helpful. Mapping out the possible directions and weighing what each one adds or takes away gave me a better understanding of the project. 
    The hardest part was knowing when I'd explored enough and it was time to start building.
@@ -25,13 +25,13 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+- How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
    If you’re not meeting your users’ needs, they’ll leave the moment something better comes along. On top of that, you have to keep finding ways to wow them if you want even your most loyal users to stick around.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+- How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 
    I approached designing the software by first breaking down the client and user needs and outlining the core features required. From there, I mapped out different design options and weighed their 
    pros and cons before choosing a solution for the client. In future real scenarios, I’d like to be given the opportunity to spend time validating my ideas early on through user feedback and prototypes 
